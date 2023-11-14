@@ -1,0 +1,3 @@
+Streams of bytes
+Programs use byte streams to input and output 8-bit bytes.
+All classes related to byte streams are derived from the InputStream and OutputStream classes, e.g. FileInputStream, FileOutputStream.
